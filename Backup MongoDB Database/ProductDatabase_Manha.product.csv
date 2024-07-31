@@ -1,0 +1,11 @@
+_id,name,price,AdditionalAttributes.brand,AdditionalAttributes.warranty,AdditionalAttributes.additionalProp1,AdditionalAttributes.additionalProp2,AdditionalAttributes.additionalProp3,AdditionalAttributes.garantia
+74b4e1f2c9e7f1b4a8d8d7a1,Laptop,3500,TechBrand,2 years,,,,
+74b4e1f2c9e7f1b4a8d8d7a2,Mouse,150,TechBrand,1 year,,,,
+74b4e1f2c9e7f1b4a8d8d7a3,Keyboard,200,TechBrand,1 year,,,,
+66a796c7e94b8e8cb2e81c6d,Gabinete,200,,,string,string,string,
+66a796ebe94b8e8cb2e81c6e,Gabinete,200,,,string,string,string,
+66a79717e94b8e8cb2e81c6f,Gabinete,200,,,u,h,h,
+66a7997201136c7cd642946f,Mouse,150.00,TechBrand,1 year,,,,
+66a79a2e02479daf58eecbfd,Laptop,3500.00,TechBrand,2 years,,,,
+66a79db9d96b26c2324e8ec2,Laptop,3500,TechBrand,2 years,,,,
+66a8c9e2d26f8f74f57fde32,pc de mesa,100,,,,string,string,1 ano

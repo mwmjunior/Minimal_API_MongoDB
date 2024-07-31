@@ -1,0 +1,3 @@
+_id,userId,cpf,phone,address,AdditionalAttributes.preferredContactMethod,AdditionalAttributes.vipStatus
+84c5d1e3d9e7f2b8b67a8d9a,64b3c0a3b9d8a8b8d67a8d9f,123.456.789-00,+55 11 91234-5678,"Rua das Flores, 123, São Paulo, SP, 01234-567",email,true
+84c5d1e3d9e7f2b8b67a8d9b,64b3c0a3b9d8a8b8d67a8d9g,234.567.890-01,+55 21 93456-7890,"Avenida Central, 456, Rio de Janeiro, RJ, 12345-678",phone,false

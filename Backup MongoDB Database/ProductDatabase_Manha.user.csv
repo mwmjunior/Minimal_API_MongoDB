@@ -1,0 +1,4 @@
+_id,name,email,password,AdditionalAttributes.role,AdditionalAttributes.status,AdditionalAttributes.additionalProp1,AdditionalAttributes.additionalProp2,AdditionalAttributes.additionalProp3
+66a79324eba3745eb4a6fb13,Alice Johnson,alice.johnson@example.com,hashedpasswordAlice,user,active,,,
+66a79324eba3745eb4a6fb14,Bob Smith,bob.smith@example.com,hashedpasswordBob,user,inactive,,,
+66a79b36304f3d42171bae80,João Silva,joao.silva@example.com,password123,,,value1,value2,value3
